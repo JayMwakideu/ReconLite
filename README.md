@@ -55,6 +55,17 @@ Data Privacy: Be cautious with the information you search; ensure compliance wit
 ReconLite uses SQLite for storing search results and API keys.
 The database file (reconlite.db) is created in the same directory as the script upon first run.
 
+Below is a preview of the graphical interface of ReconLite.
+
+<p align="center">
+    <img src="src/pg1.png" alt="GUI Screenshot 1" width="30%" />
+    <img src="src/pg2.png" alt="GUI Screenshot 2" width="30%" />
+    <img src="src/pg3.png" alt="GUI Screenshot 3" width="30%" />
+</p>
+
+🎯 **Download the GUI Version**  
+[Click here to download the ReconLite GUI executable](#)
+
 # Contribution
 Contributions are welcome! Here's how you can contribute:
 
@@ -64,6 +75,10 @@ Commit your changes (git commit -am 'Add some AmazingFeature')
 Push to the branch (git push origin feature/AmazingFeature)
 Create a new Pull Request
 
+
+---
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mwakideu)
+---
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
