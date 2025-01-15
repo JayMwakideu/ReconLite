@@ -28,7 +28,7 @@ pip install phonenumbers requests
 
 # Clone the Repository
 bash
-git clone https://github.com/yourusername/ReconLite.git
+git clone https://github.com/JayMwakideu/ReconLite.git
 cd ReconLite
 
 # Usage
