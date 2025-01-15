@@ -2,6 +2,8 @@
 
 ReconLite is a user-friendly Open Source Intelligence (OSINT) tool designed for quick and easy searches across various data types including IP addresses, phone numbers, usernames, and domain names. This tool uses Python with a Tkinter GUI to provide an intuitive interface for users.
 
+![Dashboard](src/Screenshot.png)
+
 ## # Features
 
 - **IP Search**: Retrieve geographical and network information for an IP address.
